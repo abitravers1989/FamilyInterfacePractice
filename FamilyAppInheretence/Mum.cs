@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace FamilyAppInheretence
+{
+    public class Mum : IGrandpa
+    {
+        public void TakeRubbishOut() {
+            Console.Write("Taking the rubbish out like a boss");
+        }
+        public void LikesOneSpecificFood()
+        {
+            Console.WriteLine("I only like pears");
+        }
+        public void RidesABike()
+        {
+            Console.Write("I am riding a bike");
+        }
+
+        public void LikesOneSpecificFruit()
+        {
+            Console.WriteLine("I like lots of fruit");
+        }
+
+        public void LikesSpecificFood()
+        {
+
+        }
+    }
+}

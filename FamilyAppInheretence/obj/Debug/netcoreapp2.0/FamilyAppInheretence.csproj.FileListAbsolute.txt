@@ -1,0 +1,11 @@
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\bin\Debug\netcoreapp2.0\FamilyAppInheretence.deps.json
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\bin\Debug\netcoreapp2.0\FamilyAppInheretence.runtimeconfig.json
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\bin\Debug\netcoreapp2.0\FamilyAppInheretence.runtimeconfig.dev.json
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\bin\Debug\netcoreapp2.0\FamilyAppInheretence.dll
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\bin\Debug\netcoreapp2.0\FamilyAppInheretence.pdb
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.csprojResolveAssemblyReference.cache
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.csproj.CoreCompileInputs.cache
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.AssemblyInfoInputs.cache
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.AssemblyInfo.cs
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.dll
+C:\dev\FamilyAppInheretence\FamilyAppInheretence\obj\Debug\netcoreapp2.0\FamilyAppInheretence.pdb
