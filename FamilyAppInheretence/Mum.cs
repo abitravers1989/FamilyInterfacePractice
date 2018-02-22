@@ -7,7 +7,7 @@ namespace FamilyAppInheretence
     public class Mum : IGrandpa
     {
         public void TakeRubbishOut() { }
-        public void LikesOneSpecificFood()
+        public void LikesSpecificFood()
         {
             Console.WriteLine("I only like pears");
         }
@@ -21,7 +21,6 @@ namespace FamilyAppInheretence
             Console.WriteLine("I like lots of fruit");
         }
 
-        public void LikesSpecificFood()
-        { }
+       
     }
 }

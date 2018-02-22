@@ -6,16 +6,23 @@ namespace FamilyAppInheretence
     {
         static void Main(string[] args)
         {
-            IGrandpa myMum = new Mum();
-            myMum.TakeRubbishOut();
-            myMum.LikesOneSpecificFruit();
-
-            IGrandpa myUncle = new Uncle();
-            myUncle.TakeRubbishOut();
+           
 
             IGrandpa mySon = new Son();
             mySon.TakeRubbishOut();
+            mySon.LikesSpecificFood();
+            mySon.RidesABike();
             Console.ReadLine();
         }
     }
 }
+
+
+
+
+//IGrandpa myMum = new Mum();
+//myMum.TakeRubbishOut();
+           // myMum.LikesOneSpecificFruit();
+
+           // IGrandpa myUncle = new Uncle();
+//myUncle.TakeRubbishOut();
