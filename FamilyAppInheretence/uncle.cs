@@ -4,12 +4,17 @@ using System.Text;
 
 namespace FamilyAppInheretence
 {
-    public class Mum : IGrandpa
+    public class Uncle : IGrandpa
     {
-        public void TakeRubbishOut() { }
-        public void LikesOneSpecificFood()
+        public void TakeRubbishOut()
         {
-            Console.WriteLine("I only like pears");
+            Console.Write("Taking the rubbish out like a boss");
+        }
+
+
+        public void LikesSpecificFood()
+        {
+           
         }
         public void RidesABike()
         {
@@ -18,11 +23,9 @@ namespace FamilyAppInheretence
 
         public void LikesOneSpecificFruit()
         {
-            Console.WriteLine("I like lots of fruit");
+
         }
 
-        public void LikesSpecificFood()
-        {
-        }
+     
     }
 }

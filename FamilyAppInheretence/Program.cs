@@ -8,6 +8,7 @@ namespace FamilyAppInheretence
         {
             IGrandpa myMum = new Mum();
             myMum.TakeRubbishOut();
+            myMum.LikesOneSpecificFruit();
             Console.ReadLine();
         }
     }
