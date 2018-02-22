@@ -9,6 +9,12 @@ namespace FamilyAppInheretence
             IGrandpa myMum = new Mum();
             myMum.TakeRubbishOut();
             myMum.LikesOneSpecificFruit();
+
+            IGrandpa myUncle = new Uncle();
+            myUncle.TakeRubbishOut();
+
+            IGrandpa mySon = new Son();
+            mySon.TakeRubbishOut();
             Console.ReadLine();
         }
     }

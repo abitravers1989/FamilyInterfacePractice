@@ -22,7 +22,6 @@ namespace FamilyAppInheretence
         }
 
         public void LikesSpecificFood()
-        {
-        }
+        { }
     }
 }
