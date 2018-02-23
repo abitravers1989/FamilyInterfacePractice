@@ -15,12 +15,8 @@ namespace FamilyAppInheretence
         { Console.WriteLine("I am like my uncle"); }
         
 
-        new public void LikesOneSpecificFruit()
-        {
-            Console.WriteLine("I like lots of fruit");
-        }
-
        
+   
 
     }
 }
